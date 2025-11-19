@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a Computer Science & Engineering graduate with a strong passion for full-stack development.  
+I’m a Computer Engineering graduate with a strong passion for full-stack development.  
 I specialize in Java, Spring Boot, and modern frontend technologies, and I enjoy building clean, scalable and efficient applications.  
 I constantly explore new tools, frameworks, and best practices to sharpen my skills and grow as a developer.  
 
